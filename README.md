@@ -8,3 +8,7 @@ Just some privacy related things.
   <br />Opt-out of prescreened credit card offers.
 - [Unroll.me](https://unroll.me/)
   <br />Makes it easier to Unsubscribe from mailing lists.
+
+# iPhone
+
+# Social Media
