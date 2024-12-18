@@ -13,6 +13,23 @@ Below are some services/practices to help maintain my privacy.
 
 ## iPhone
 
+These settings get moved based on the version of iOS. These are based on iOS 18.2
+
+Open Settings, then
+
+Wi-Fi
+| Setting | What it does | Recommended |
+|---|---|---|
+| Ask to Join Networks | Pops up and asks if you want to join a wireless network. | Turn it off. I don't like popups. |
+
+| Setting | What it does | Recommended |
+|---|---|---|
+|  |  |  |
+
+| Setting | What it does | Recommended |
+|---|---|---|
+|  |  |  |
+
 ## Social Media
 
 ## Other
@@ -20,3 +37,12 @@ Below are some services/practices to help maintain my privacy.
 ### Verizon
 
 ### Visible
+
+From the app click Account
+
+Under Privacy and Security
+
+- Spam protection (make sure it's enabled)
+- Your Privacy Choices (select opt-out)
+- Number Security (enable Line Lock)
+- Data and Privacy Policy (click Manage, scroll down to Marketing Communications and select Do not allow), click Save
