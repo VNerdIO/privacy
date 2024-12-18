@@ -18,15 +18,15 @@ These settings get moved based on the version of iOS. These are based on iOS 18.
 Open Settings, then
 
 Wi-Fi
-| Setting | What it does | Recommended |
+| Setting | What it does | Action |
 |---|---|---|
 | Ask to Join Networks | Pops up and asks if you want to join a wireless network. | Turn it off. I don't like popups. |
 
-| Setting | What it does | Recommended |
+| Setting | What it does | Action |
 |---|---|---|
 |  |  |  |
 
-| Setting | What it does | Recommended |
+| Setting | What it does | Action |
 |---|---|---|
 |  |  |  |
 
